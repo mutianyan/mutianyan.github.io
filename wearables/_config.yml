@@ -24,19 +24,19 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
-defaults: # definde default
-  -
-    scope:
-        path: "" # "" means all the files, which file to apply to
-        type: "post"    # apply to all the post files
-    values:
-        #definde values
-        layout: default
-        title: "My Title"
+# defaults: # definde default
+#   -
+#     scope:
+#         path: "" # "" means all the files, which file to apply to
+#         type: "post"    # apply to all the post files
+#     values:
+#         #definde values
+#         layout: default
+#         title: "My Title"
 
 
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: "post"
 title:  "First Day of Wearable Class!!!"
 date:   2019-01-14 21:05:51 -0700
 categories: jekyll update
